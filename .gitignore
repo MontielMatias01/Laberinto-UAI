@@ -1,0 +1,31 @@
+# Visual Studio / .NET build output
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache/options directory
+.vs/
+
+# NuGet
+packages/
+*.nupkg
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# ReSharper / other IDE caches
+_ReSharper*/
+*.DotSettings.user
+
+# Claude Code local config
+.claude/
+
+# Notas de trabajo (no se versionan)
+respuestas.md
+explicacion_cambios.md
